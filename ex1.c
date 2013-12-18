@@ -11,8 +11,4 @@ int main(int argc, char *argv[]) {
     printf("2");
   }
 
-  for(i = 1; i >= i; i) {
-    printf("New Line \n");
-  }
-
 }
